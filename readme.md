@@ -33,7 +33,7 @@ lost track but definitely over 12 hours total
 
 ###Notes
 
-I was really strugling with this one. I didn't get through any of the optionals and I'm feeling really lost.
+I was really struggling with this one. I didn't get through any of the optionals and I'm feeling really lost.
 
 ###Walkthrough of all user stories
 
