@@ -37,6 +37,6 @@ I was really struggling with this one. I didn't get through any of the optionals
 
 ###Walkthrough of all user stories
 
-![Video Walkthrough](mailbox-animation.gif)
+![Video Walkthrough](mailbox.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
